@@ -1,0 +1,67 @@
+2.Manfred Question
+i=98
+i='Hello Python'
+i=['76','34']
+i={'k':'333'}
+print(i)
+
+Output
+{'k': '333'}
+
+-----------------------------------------------------------------------
+2.Cedar view Question
+for i in range(1,101):
+    if i%2==0:
+        print('Set A    ',+i)
+    else:
+        print('Set B    ',+i)
+
+-----------------------------------------------------------------------
+1.Lisa Digitals
+Install numpy with command pip3 install numpy
+No error occured
+-----------------------------------------------------------------------
+2. cant solve
+------------------------------------------------------------------------
+1. St. Bead
+import pandas as pd
+
+marks_data = pd.DataFrame({'ID': {0: 23, 1: 43,2:44, 3:22},
+                          'Name': {0: 'Pawan', 1: 'Pappu',
+                                   2: 'Pawar', 3: 'Aman'},
+                          'Marks': {0: 89, 1: 97, 2: 45, 3: 78,
+                                    4: 56},
+                          'Grade': {0: 'B', 1: 'A', 2: 'F', 3: 'C'}})
+file_name = 'details.xlsx'
+marks_data.to_excel(file_name)
+print('Done')
+------------------------------------------------------------------
+2.DEMathew
+
+from pandas import *
+xls = ExcelFile('converted.xls')
+df = xls.parse()
+print (df.to_dict())
+---------------------------------------------------------------------
+1. cresent flying club
+input = ['cdd ', 'sutdddwta', 'BaR']
+
+lst = [x.upper() for x in input]
+
+print(lst)
+
+--------------------------------------------------------------------
+2. Science fair
+d={"Daniel":"Project","Charlie":"Prersentation","Jacob":"Presentation","James":"Presentation","Samantha":"Project"}
+k=[]
+for key in d:
+    if d[key] != "Project":
+        k.append(key)
+        d[key]="washing"
+print(k)
+print(d)
+-------------------------------------------------------------------------
+
+
+
+
