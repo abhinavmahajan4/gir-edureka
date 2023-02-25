@@ -1,0 +1,16 @@
+http://127.0.0.1:3000/			LOCAL HOST NODE
+
+
+https://www.coursera.org/programs/vidyavardhinis-college-of-engineering-tech-on-coursera-gwu9b?currentTab=CATALOG
+
+
+https://accenturelearning.tekstac.com/login/index.php?ReturnTo=https%3A%2F%2Faccenturelearning.tekstac.com%2Fsimplesamlphp%2Fwww%2Fmodule.php%2Fmoodle%2Fresume.php%3FState%3D_54d558761de174eea3ecc3462b587dbb06c71337d3%253Ahttps%253A%252F%252Faccenturelearning.tekstac.com%252Fsimplesamlphp%252Fwww%252Fsaml2%252Fidp%252FSSOService.php%253Fspentityid%253Dhttps%25253A%25252F%25252Faccenturelearning.tekstac.com%25252F2021%25252Fauth%25252Fsaml2%25252Fsp%25252Fmetadata.php%2526RelayState%253Dhttps%25253A%25252F%25252Faccenturelearning.tekstac.com%25252F2021%25252Fmy%25252F%2526cookieTime%253D1631210052
+
+
+
+
+
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
+
+
+
